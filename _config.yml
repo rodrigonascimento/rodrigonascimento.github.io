@@ -17,7 +17,9 @@ timezone: America/Sao_Paulo
 title: Born Labs # the main title
 
 tagline: >-
-  Performance Engineering | Storage | Linux | AI Infrastructure
+  Performance Engineering | Storage 
+  Linux | AI Infrastructure
+  Python | Rust
 
 description: >- 
   Dicas para ambientes que exigem alto desempenho
