@@ -19,7 +19,8 @@ title: Born Labs # the main title
 tagline: >-
   Performance Engineering | Storage | Linux | AI Infrastructure
 
-description: >- # used by seo meta and the atom feed
+description: >- 
+  Dicas para ambientes que exigem alto desempenho
   
 
 # Fill in the protocol & hostname for your site.
